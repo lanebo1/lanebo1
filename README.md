@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=lanebo1&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center">
+<!-- <p align="center">
     <a href="#"><img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,mongodb,redis,sqlite,git,docker,kubernetes,linux,java,cpp,c,html,css,js&perline=9" alt="skills"></a>
-</p>
+</p> -->
