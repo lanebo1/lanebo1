@@ -5,7 +5,7 @@
 <div align="center">
 <h3>Languages</h3>
 <p>
-    <a href="#"><img src="https://skillicons.dev/icons?i=python,go,java,flutter,cpp,ts,js,wasm,arduino&perline=10" alt="langs"></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=python,go,java,flutter,cpp,ts,js,wasm,haskell,arduino&perline=10" alt="langs"></a>
 </p>
 </div>
 
