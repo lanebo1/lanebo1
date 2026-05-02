@@ -5,14 +5,14 @@
 <div align="center">
 <h3>Languages</h3>
 <p>
-    <a href="#"><img src="https://skillicons.dev/icons?i=python,go,java,flutter,cpp&perline=5" alt="langs"></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=python,go,java,flutter,cpp,ts,js,wasm,arduino&perline=10" alt="langs"></a>
 </p>
 </div>
 
 <div align="center">
 <h3>Frameworks</h3>
 <p>
-    <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,django,spring,bots&perline=10" alt="frameworks"></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=fastapi,django,spring,bots,tailwind&perline=10" alt="frameworks"></a>
 </p>
 </div>
 
@@ -40,7 +40,14 @@
 <div align="center">
 <h3>Want to learn</h3>
 <p>
-    <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes,terraform,ansible,redis,jenkins&perline=5" alt="langs"></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=kubernetes,terraform,ansible,redis,jenkins,nix,&perline=10" alt="langs"></a>
+</p>
+</div>
+
+<div align="center">
+<h3>Daily driving</h3>
+<p>
+    <a href="#"><img src="https://skillicons.dev/icons?i=mint&perline=10" alt="devops"></a>
 </p>
 </div>
 
@@ -48,5 +55,6 @@
 <h3>Contact me</h3>
 <p>
     <a href="https://t.me/Cblblblblblp"><img src="https://img.icons8.com/fluency-systems-filled/40/FFFFFF/telegram-app.png" alt="https://t.me/Cblblblblblp"></a>
+     <a href="mailto:kirillefimovic141@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="mailto:kirillefimovic141@gmail.com"></a>
 </p>
 </div>
